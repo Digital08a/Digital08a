@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact:  I’m currently learning **English**  😁
 
+There are ✌ things in life
+- The things I already know 🧠
+- The things I am going to learn 📖
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
