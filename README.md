@@ -43,10 +43,10 @@ There are ✌ things in life
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digital08a" alt="alexishenriquez" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Digital08a&theme=dark&show_icons=true" alt="alexishenriquez" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Digital08a" alt="alexishenriquez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Digital08a&theme=dark&show_icons=true" alt="alexishenriquez" /></p>
 
 
 
