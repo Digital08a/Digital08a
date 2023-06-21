@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently study 👨‍💻
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **java & JavaScript**
 
 
 - 💬🎮 Ask me about **anime or videogames**
